@@ -1,0 +1,77 @@
+# Candidati sospesi: restano FUORI dall'elenco pubblico finché non li guarda
+# qualcuno su un telefono. Il motivo del dubbio è accanto a ognuno.
+#
+# Chi li verifica sposta la voce in FUORI o la toglie da DUBBI, dentro
+# strumenti/aggiornamento-compagni/revisione.py, e rilancia lo script.
+
+ai.moescape.android
+    Moescape - Character AI & Art
+    → metà arte anime, metà chat con personaggi
+
+ai.your.assistant.chats
+    Spark AI: Chat & Companion
+    → assistente generalista che si presenta anche come compagno
+
+co.wistower.somate
+    SoMate - Meet Your AI Soulmate
+    → «Meet Your AI Soulmate»: incontri veri o compagno simulato?
+
+com.ArcticSkyGames.ChooseYourAIAdventure
+    Infinite Adventure Sim: AI RPG
+    → gioco di ruolo fantasy
+
+com.badalaryal.soulmate
+    Soulmate: AI Dating & Chat
+    → «AI Dating & Chat»: incontri veri o compagno simulato?
+
+com.comindlabs.wyndra
+    Wyndra: AI Fantasy Story Games
+    → giochi a storie fantasy
+
+com.dream.soulmate
+    Soulmate – AI Dating App
+    → «AI Dating App»: incontri veri o compagno simulato?
+
+com.isekai.us
+    Isekai Fantasy
+    → gioco di ruolo fantasy
+
+com.pranta.aipersona
+    AI Persona
+    → nome troppo vago per decidere
+
+com.storyengine.komikoai
+    Komiko: Character AI, Art, OCs
+    → metà fumetti, metà chat con personaggi
+
+com.universestationery.storinationen
+    Storynation:Universe&Character
+    → creazione di storie
+
+com.video.acts.ai
+    ACTS – Interactive Story Game
+    → gioco a storie interattive: quanto sia una relazione simulata non si capisce dal nome
+
+eternalai.org
+    Free AI Roleplay | Eternal AI
+    → il nome è condiviso con un progetto diverso, va verificato che il sito sia quello
+
+io.voyage
+    Voyage: AI RPG Platform
+    → piattaforma di gioco di ruolo, non per forza affettivo
+
+jp.mihagames.dreamcraft.prod
+    FateWeaver: AI Fantasy RPG
+    → gioco di ruolo fantasy
+
+jp.ne.ambition.googleplay_nizikano2d_glb
+    Dream Girlfriend
+    → gioco giapponese di vestizione, più costume che relazione
+
+piscessoft.in
+    AI girlfriend — Your AI companion, always here to talk
+    → dominio di una software house: bloccarlo prende anche il resto di quello che pubblica
+
+smartxlib.com
+    Sweet AI - Your Virtual Companion | SmartXLib
+    → dominio di una software house: bloccarlo prende anche il resto di quello che pubblica
