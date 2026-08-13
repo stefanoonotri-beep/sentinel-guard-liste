@@ -92,143 +92,143 @@ voicevox-chat.com
 yodayo.com
 
 # app Android: 140
-app:ai.blush
-app:ai.boyfriend
-app:ai.boyfriend.imate.virtual.companion
-app:ai.boyfriend.virtual.dating.lover.iboy
-app:ai.character.app
-app:ai.chimely.fortune
-app:ai.girlfriend.virtual.dating.lover.igirl
-app:ai.minglotalk.chatbot
-app:ai.onlykin.app
-app:ai.replika.app
-app:ai.rochat.bot
-app:ai.socialapps.speakmaster
-app:ai.story.plotto
-app:aiboy.companion.app
-app:aigirlfriend.huggingface
-app:app.bitbear.tav
-app:app.doki.dokichat
-app:app.invisioned.com
-app:caitty.com.AiBoyfriend2Pro
-app:caitty.com.AiGirlfriend
-app:caitty.com.AiGirlfriend2
-app:caitty.com.aiboyfriend
-app:caitty.com.findboyfriend
-app:chat.diari.app
-app:com.Beauchamp.Messenger.external
-app:com.agnes.echo
-app:com.ai.chat.assistant.smart.bot
-app:com.ai.girlfriend.ai.friend
-app:com.aiboyfriend.virtuallove
-app:com.aichat.aigirlfriend.roleplay
-app:com.aichatapp.sherryai
-app:com.aichatwithaipeople.makefriends
-app:com.aifriends.emily
-app:com.aigc.ushow.fantasky
-app:com.aijasmine.chat
-app:com.ailife.app
-app:com.aitomochatapp
-app:com.aiv.love.anime.character.ai
-app:com.akardas.roleplayer
-app:com.amiai.amichat
-app:com.aminteractivesoftware.chatticaai
-app:com.animechat.anime_chat_app
-app:com.arclair.lovinn
-app:com.ashley.ashley_ai
-app:com.babolai.chat
-app:com.bella.companion
-app:com.bellachat.rolechatfriends
-app:com.bnl.saend
-app:com.butterflylink.paradoor
-app:com.caigirl.chatnow
-app:com.characterai.aichat.aifriend
-app:com.characterai.character_ai
-app:com.charclub.ai.world.virtual.character.chatbot.roleplay.assistant.imagination
-app:com.chatbot.ai.smart.talk.assistant
-app:com.cocorotech.oshi_talk
-app:com.codingmasterslab.komee
-app:com.cripttionapp.two
-app:com.dating.ai
-app:com.deeplove.ai
-app:com.dewy.prod
-app:com.dg.aidreamgirl.aichat
-app:com.doubley.drip
-app:com.elapp.anne
-app:com.emily.aicharacter.chatbotai.aigirlfriend.aichat.roleplay
-app:com.ezuseapp.ezcrush.chatbot
-app:com.fandyai.fandy
-app:com.fantasia.ai
-app:com.flirtly.aidate
-app:com.friendai.android
-app:com.gamifly.aiko
-app:com.gerfend.lunag
-app:com.grow.talkmosaic
-app:com.happy2026.aichat
-app:com.herai.aiboychat
-app:com.hiwaifu.app
-app:com.hyperitycorp.herstoryai
-app:com.hyperitycorp.hisstoryai
-app:com.ifriend.app
-app:com.imiss.ai.girlfriend.simulator
-app:com.intimaiforwoman
-app:com.intimaioficial
-app:com.isetai.justmet
-app:com.isetai.raki
-app:com.johnjal.app
-app:com.joychatai.anime
-app:com.joyfun.aiden.aifriend
-app:com.joyland.ai
-app:com.keilyai.character.chat
-app:com.lazyapp.aigirflriend
-app:com.linksphere.anichat
-app:com.liume.mimel
-app:com.lunatalk.ai
-app:com.luxleyai.chat2026
-app:com.lyravega.lyra
-app:com.mefriend.app
-app:com.melonai.rolechat
-app:com.msc.character.ai
-app:com.mxxtech.sweetai
-app:com.mydreamai.chatsoul
-app:com.myloverse.story.chapter.ai
-app:com.nextalk.app
-app:com.nikaai.nika
-app:com.olympusstudio.AikoAICompanion
-app:com.onyxtech.spicybf
-app:com.parulai.app
-app:com.peach.ai.app
-app:com.petalchat.withais
-app:com.poppy.helper.tkb
-app:com.renee.chatanimeai
-app:com.rheality.dot
-app:com.roleberry.app
-app:com.rosychat.roleplay
-app:com.saathiya.saathiya_ai
-app:com.sadama.fantasy
-app:com.sible.ai
-app:com.sienna.cloud.inc
-app:com.simulra.mimiko
-app:com.smartfy.coupleai
-app:com.soulmate.ai.chat.virtual.friend.companion
-app:com.soulmate.aichat.virtual.roleplay
-app:com.spicy.chat.lover.mate
-app:com.ssw.mecord
-app:com.storyrole.chat
-app:com.supergene.loki
-app:com.talkme.vivian
-app:com.thirtythreeapps.jackchatbot
-app:com.tikie.ai.android
-app:com.tryimpel.dippy
-app:com.valentinaradkevic.ailover
-app:com.vexyaichat.app
-app:com.weaver.app.prod
-app:com.wexpy.mythx
-app:com.zing.chat.android
-app:eternalai.org.bites
-app:eve.ai.companion.app
-app:io.ire.girlfriend
-app:kr.ai.backstage
-app:laixen.ai.character.chat
-app:lovd.love.me.chat.simulator.dating.games.link.com
-app:weappico.girly.android
+app:ai.blush|Blush: AI Dating Simulator
+app:ai.boyfriend|AI Boyfriend
+app:ai.boyfriend.imate.virtual.companion|Imate - AI boyfriend who cares
+app:ai.boyfriend.virtual.dating.lover.iboy|Anima: My Virtual AI Boyfriend
+app:ai.character.app|Character AI: Chat, Talk, Text
+app:ai.chimely.fortune|ChimeChat: AI Character Chat
+app:ai.girlfriend.virtual.dating.lover.igirl|iGirl: AI Girlfriend
+app:ai.minglotalk.chatbot|MingloTalk: AI Character Chat
+app:ai.onlykin.app|OnlyKin: AI Character Chat
+app:ai.replika.app|Replika: My AI Friend
+app:ai.rochat.bot|Rochat - AI Personaggi Chat
+app:ai.socialapps.speakmaster|PolyBuzz -Talk to AI Character
+app:ai.story.plotto|Plotto: AI Roleplay & Chat
+app:aiboy.companion.app|AIBoy - Virtual AI Boyfriend
+app:aigirlfriend.huggingface|Character AI - AI Girlfriend
+app:app.bitbear.tav|Tavo - AI Roleplay Frontend
+app:app.doki.dokichat|Dokichat - Romantic AI Chats
+app:app.invisioned.com|Invisioned - AI Companion
+app:caitty.com.AiBoyfriend2Pro|AI Boyfriend
+app:caitty.com.AiGirlfriend|AI Girlfriend
+app:caitty.com.AiGirlfriend2|AI Girlfriend 2
+app:caitty.com.aiboyfriend|AI Boyfriend
+app:caitty.com.findboyfriend|Everen: AI Boyfriend Chat
+app:chat.diari.app|Diari - AI Character Chat
+app:com.Beauchamp.Messenger.external|Chai: Chat AI Platform
+app:com.agnes.echo|Echo - AI Roleplay Stories
+app:com.ai.chat.assistant.smart.bot|AI Character: Roleplay Chat
+app:com.ai.girlfriend.ai.friend|AI Girlfriend: Virtual AI Chat
+app:com.aiboyfriend.virtuallove|Ai Boyfriend: Virtual Love
+app:com.aichat.aigirlfriend.roleplay|Lumia: Chat con Personaggi AI
+app:com.aichatapp.sherryai|Sherry: AI Character Fantasia
+app:com.aichatwithaipeople.makefriends|Pink AI: Anime Characters Chat
+app:com.aifriends.emily|Emily: Your AI Character
+app:com.aigc.ushow.fantasky|FantaSky: Character AI Chatbot
+app:com.aijasmine.chat|Jasmine: AI Persona Roleplay
+app:com.ailife.app|AI Life — AI Companion & Chat
+app:com.aitomochatapp|ANIME Character AI Chat：AITOMO
+app:com.aiv.love.anime.character.ai|SoulChat: Character AI Friend
+app:com.akardas.roleplayer|Rolevia: Character AI Stories
+app:com.amiai.amichat|Amelia:Chat with AI Characters
+app:com.aminteractivesoftware.chatticaai|ChatticaAI - AI Character Chat
+app:com.animechat.anime_chat_app|Aihime - Anime Waifu Chat
+app:com.arclair.lovinn|Lovinn: Real AI Companion
+app:com.ashley.ashley_ai|Ashley: American Ai Girlfriend
+app:com.babolai.chat|Babol AI: Anime Character Chat
+app:com.bella.companion|Bella: AI Roleplay Chat
+app:com.bellachat.rolechatfriends|Bella: Anime Characters Chat
+app:com.bnl.saend|Saen-D: AI Companion
+app:com.butterflylink.paradoor|ParaDoor: AI Character, Story
+app:com.caigirl.chatnow|Spark Chat-AI Roleplay Freely
+app:com.characterai.aichat.aifriend|Charactia: AI Character Chat
+app:com.characterai.character_ai|Talk AI Character Roleplay
+app:com.charclub.ai.world.virtual.character.chatbot.roleplay.assistant.imagination|CharClub: Character AI Chat
+app:com.chatbot.ai.smart.talk.assistant|AI Chatbot – Virtual Character
+app:com.cocorotech.oshi_talk|AI Character Chat
+app:com.codingmasterslab.komee|Komee: AI Fantasy Roleplay
+app:com.cripttionapp.two|Remo AI: Dream AI Girlfriend
+app:com.dating.ai|Flipped:Chat with AI Character
+app:com.deeplove.ai|DeepLove AI：Dream AI Love Chat
+app:com.dewy.prod|Dewy: Chat with AI Characters
+app:com.dg.aidreamgirl.aichat|Bae Love: AI Girlfriend Chat
+app:com.doubley.drip|Him - AI Boyfriend Chat
+app:com.elapp.anne|Anne: Virtual AI Roleplay Chat
+app:com.emily.aicharacter.chatbotai.aigirlfriend.aichat.roleplay|Emily: AI Girlfriend Chat
+app:com.ezuseapp.ezcrush.chatbot|Suka:AI Character&AI Story
+app:com.fandyai.fandy|Fandy: Chat with AI Characters
+app:com.fantasia.ai|Fantasia: Character AI Chat
+app:com.flirtly.aidate|Mila: AI Roleplay Game
+app:com.friendai.android|FriendAI
+app:com.gamifly.aiko|Aiko2D - Your AI Girlfriend
+app:com.gerfend.lunag|LunaGrace: AI Character Chat
+app:com.grow.talkmosaic|TalkMosaic - AI Character Chat
+app:com.happy2026.aichat|HappyChat: AI Fantasy Roleplay
+app:com.herai.aiboychat|Her AI: Virtual Companion
+app:com.hiwaifu.app|HiWaifu: amico AI e Waifu Hub
+app:com.hyperitycorp.herstoryai|HerStory: AI Girlfriend
+app:com.hyperitycorp.hisstoryai|HisStory: AI Boyfriend
+app:com.ifriend.app|EVA AI Soulmate
+app:com.imiss.ai.girlfriend.simulator|AI Girlfriend & Chat - iMiss
+app:com.intimaiforwoman|AI Boyfriend 18+
+app:com.intimaioficial|AI Girlfriend 18+
+app:com.isetai.justmet|JustMet: AI Girlfriend
+app:com.isetai.raki|Raki: Chat with AI Characters
+app:com.johnjal.app|JohnJal: AI Boyfriend Roleplay
+app:com.joychatai.anime|Joy: AI Anime Character Chat
+app:com.joyfun.aiden.aifriend|Aiden: AI Boyfriend
+app:com.joyland.ai|Joyland:Chat with AI Character
+app:com.keilyai.character.chat|Keily-AI Soulmate Chat
+app:com.lazyapp.aigirflriend|Lust: AI Girlfriend Simulator
+app:com.linksphere.anichat|Ani Chat - Chat AI personale
+app:com.liume.mimel|mimel: Chat with AI Boyfriend
+app:com.lunatalk.ai|LunaTalk - AI Character Chat
+app:com.luxleyai.chat2026|Luxley- AI Boyfriend
+app:com.lyravega.lyra|Lyra: AI Roleplay & Stories
+app:com.mefriend.app|m.ai: Next level AI Roleplay
+app:com.melonai.rolechat|Melon AI：AI Roleplay Chat
+app:com.msc.character.ai|FunnyChat: AI Story Characters
+app:com.mxxtech.sweetai|Sweet AI - Virtual Companion
+app:com.mydreamai.chatsoul|MyDream AI :Smart AI roleplay
+app:com.myloverse.story.chapter.ai|My Loverse: Interactive Story
+app:com.nextalk.app|AI Character Chat - Rae
+app:com.nikaai.nika|Nika: AI Girlfriend & Roleplay
+app:com.olympusstudio.AikoAICompanion|AIKO: AI Girlfriend 3D Game
+app:com.onyxtech.spicybf|Virtual AI Boyfriend: HushBF
+app:com.parulai.app|Meetra - Indian AI Girlfriend
+app:com.peach.ai.app|Pippa - AI Roleplay & Chat
+app:com.petalchat.withais|PetalChat: AI Roleplay
+app:com.poppy.helper.tkb|Poppy:AI Roleplay Chat
+app:com.renee.chatanimeai|Renee AI - Virtual Lover
+app:com.rheality.dot|dotdotdot Fantasy AI Boyfriend
+app:com.roleberry.app|Roleberry: AI Roleplay & Chat
+app:com.rosychat.roleplay|RosyChat: Create with Anime AI
+app:com.saathiya.saathiya_ai|Saathiya: Indian AI Girlfriend
+app:com.sadama.fantasy|Fantasy Talk: AI Roleplay Chat
+app:com.sible.ai|sible - AI Companions
+app:com.sienna.cloud.inc|Sienna-Find Your AI Soulmate
+app:com.simulra.mimiko|Mimiko: AI Roleplay & Chat
+app:com.smartfy.coupleai|Virtual AI Girlfriend CoupleAI
+app:com.soulmate.ai.chat.virtual.friend.companion|Weifu AI: My Girlfriend Chat
+app:com.soulmate.aichat.virtual.roleplay|Soulmate: AI Character Chat
+app:com.spicy.chat.lover.mate|Tavern Chat - AI Character
+app:com.ssw.mecord|Meco - AI Character Chat
+app:com.storyrole.chat|RoleAI: AI Character Roleplay
+app:com.supergene.loki|AOi: Live2D Character AI
+app:com.talkme.vivian|Metalk AI Girlfriend & Chat
+app:com.thirtythreeapps.jackchatbot|Jack - AI Boyfriend
+app:com.tikie.ai.android|TiKie: AI Fantasy & Roleplay
+app:com.tryimpel.dippy|Dippy-AI Characters & Roleplay
+app:com.valentinaradkevic.ailover|AI Lover: Girlfriend & Chat
+app:com.vexyaichat.app|Vexy - AI Girlfriend Chat
+app:com.weaver.app.prod|Talkie: Creative AI Community
+app:com.wexpy.mythx|AI Fantasy Roleplay: Mythx
+app:com.zing.chat.android|ZingChat: Charming AI Roleplay
+app:eternalai.org.bites|Eternal: AI Character & Chat
+app:eve.ai.companion.app|Eve: Realistic AI Girlfriend
+app:io.ire.girlfriend|My Dream Girlfriend
+app:kr.ai.backstage|Backstage: AI Boyfriend Chat
+app:laixen.ai.character.chat|Laixen: Chat with AI Character
+app:lovd.love.me.chat.simulator.dating.games.link.com|LOVD: AI Dating & Waifu Hub
+app:weappico.girly.android|Girly - AI Girlfriend Chat
